@@ -1,0 +1,12 @@
+{
+  "name": "Zentora Messenger",
+  "description": "A clone of the Zentora messenger interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
